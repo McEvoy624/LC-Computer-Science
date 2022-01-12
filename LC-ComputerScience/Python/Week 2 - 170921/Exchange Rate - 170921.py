@@ -1,5 +1,0 @@
-Euros = float(input('Euros = € '))
-Dollar = float(1.18)
-Result = float(Euros*Dollar)
-Total = "{:,}".format(Result)
-print('Dollars = $',Total)
